@@ -18,5 +18,5 @@ Implementation of the spectral graph model (SGM) in PyTorch and demonstration of
 
 - **20240430_torchdiffeq-v6b-Goodwin-Adjoint-burstSuppression_v20240430_updated20240808.ipynb**: Demonstrates SGM ODE system in modeling burst suppression. It uses TorchDiffEq and the Goodwin model as a foundation.
 
-### Citation
+## Citation
 Code citation: TBA
